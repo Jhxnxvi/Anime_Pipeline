@@ -1,5 +1,6 @@
 # Anime_Pipeline
 About The Project
+---
 This project is my attempt at creating a comparison between anime and manga rankings to see which ones are the best
 ---
 System Requirements:
