@@ -11,6 +11,7 @@ AWS Account : For creating an S3 bucket
 Steps Involved in the script:
 ---
 Cleaned, Scraped transfered and loaded data from https://myanimelist.net
-Building a model.
+
+Building a model
 Setting up connection with the S3 bucket.
 Converting the dataframe into .csv format and loading into S3 bucket.
