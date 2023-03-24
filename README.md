@@ -1,7 +1,7 @@
 # Anime_Pipeline
 ## Project Objective:
 ------------------------------------------------------------------------------------------------------------------------------
-To create a comparison between Anime and Manga based on rank. (was not able to reach objective)
+To create a comparison between Anime and Manga based on rank. 
 -------------------------------------------------------------------------------------------------------------------------------
 ## System Requirements:
 - Python 3 : Recommend an Anaconda Installation
